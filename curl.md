@@ -1,0 +1,12 @@
+
+### Curl
+    # Curl is a tool that you can use for HTTP requests from the command line. You can find more detailed information on curl's original webpage. 
+[Curl documentation](https://curl.se/) 
+
+- curl --location --request GET 'URL' --header 'Content-Type: application/json'
+  
+- curl --location --request POST 'URL' --header 'Content-Type: application/json' --data-raw '{""}'
+  
+# Do you need to wait for the response? If so then you can use as below
+
+- 
