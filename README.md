@@ -2,5 +2,6 @@
 
 - [Basic Curl's commands](https://github.com/hayriozler/UsefulTools/blob/master/curl.md)
   
-- [Docker]
+- [Docker](https://github.com/hayriozler/UsefulTools/blob/master/docker.md)
 
+- [WSL2](https://github.com/hayriozler/UsefulTools/blob/master/wsl2.md)
