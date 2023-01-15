@@ -2,7 +2,7 @@
 
 - [Basic Curl's commands](https://github.com/hayriozler/UsefulTools/blob/master/curl.md)
 
-- [Ssh](https://github.com/hayriozler/UsefulTools/blob/master/ssh.md)
+- [Ssh](https://github.com/hayriozler/UsefulTools/blob/master/ssh-scp.md)
 
 - [Docker](https://github.com/hayriozler/UsefulTools/blob/master/docker.md)
 
